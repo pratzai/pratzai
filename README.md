@@ -1,2 +1,2 @@
 # pratzai
-Init repo
+PratzAI – where hard work meets artificial intelligence.
